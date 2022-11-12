@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/IComponent.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/List.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/mediator/Editor.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/Filter.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/mediator/IMediator.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/edu/uspg/MediadorPatterns.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/SaveButton.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/mediator/Note.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/DeleteButton.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/TextBox.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/Title.java</file>
+            <file>file:/C:/Users/pc-home/Documents/NetBeansProjects/MediadorPatterns/src/components/AddButton.java</file>
+        </group>
+    </open-files>
+</project-private>
